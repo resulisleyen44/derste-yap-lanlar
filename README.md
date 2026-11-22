@@ -1,1 +1,1 @@
-# derste-yap-lanlar
+# dersteyapılanlar
